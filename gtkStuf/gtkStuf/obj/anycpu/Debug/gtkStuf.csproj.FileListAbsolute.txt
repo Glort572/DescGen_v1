@@ -1,0 +1,43 @@
+/Users/amsakan/Projects/gtkStuf/gtkStuf/obj/anycpu/Debug/gtkStuf.csproj.AssemblyReference.cache
+/Users/amsakan/Projects/gtkStuf/gtkStuf/obj/anycpu/Debug/gtkStuf.csproj.CoreCompileInputs.cache
+/Users/amsakan/Projects/gtkStuf/gtkStuf/bin/Debug/gtkStuf.exe
+/Users/amsakan/Projects/gtkStuf/gtkStuf/bin/Debug/gtkStuf.pdb
+/Users/amsakan/Projects/gtkStuf/gtkStuf/obj/anycpu/Debug/gtkStuf.exe
+/Users/amsakan/Projects/gtkStuf/gtkStuf/obj/anycpu/Debug/gtkStuf.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtkStuf.exe
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtkStuf.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\atk-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gdk-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glade-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glib-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtk-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\Mono.Posix.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\pango-sharp.dll
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gdk-sharp.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glib-sharp.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glade-sharp.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\pango-sharp.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\atk-sharp.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.csproj.AssemblyReference.cache
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.exe
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtkStuf.exe
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtkStuf.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\atk-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gdk-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glade-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glib-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gtk-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\Mono.Posix.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\pango-sharp.dll
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\gdk-sharp.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glib-sharp.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\glade-sharp.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\pango-sharp.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\bin\Debug\atk-sharp.pdb
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.csproj.AssemblyReference.cache
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.exe
+D:\Dropbox\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.pdb
+C:\Users\Giovanni Rota\Dropbox\Coding\DescGen\gtkStuf\gtkStuf\obj\anycpu\Debug\gtkStuf.csproj.CopyComplete
