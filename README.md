@@ -1,6 +1,6 @@
 # Description Generator
 
-This application helps YouTube music promotional channels to generate a description for their new upload!
+This application written in C# helps YouTube music promotional channels to generate a description for their new upload!
 
 ![AppVeyor](https://img.shields.io/appveyor/build/glort572/DescGen_v1)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/glort572/DescGen_v1/main)
@@ -27,11 +27,11 @@ This application helps YouTube music promotional channels to generate a descript
 
 The application should look like this
 
-![alt text](https://github.com/glort572/DescGen_v1/main/274228536_1803190053209722_5676189503320417653_n.jpg?raw=true)
+![Description Generator overview image](https://github.com/Glort572/DescGen_v1/blob/main/274228536_1803190053209722_5676189503320417653_n.png)
 
 You can customise your icon if you want by opening the options of GtkStuf and clicking on "Applications", too.
 
-![alt text](https://github.com/glort572/DescGen_v1/main/274140338_264980035807401_1429805827351658119_n.jpg?raw=true)
+![Customisation](https://github.com/Glort572/DescGen_v1/blob/main/274140338_264980035807401_1429805827351658119_n.png)
 
 ## Contributions
 
@@ -43,7 +43,9 @@ Or open an issue first to discuss what you would like to change. (Unrecommended,
 
 Please make sure to update tests as appropriate.
 
+
 # People who helped me and made most of the stuff
 
-[@anotherSimpleCoder](https://github.com/anotherSimpleCoder/)
-[Yume Network](https://www.youtube.com/c/YumeNetwork)
+- [@anotherSimpleCoder](https://github.com/anotherSimpleCoder/)
+
+- [Yume Network](https://www.youtube.com/c/YumeNetwork)
