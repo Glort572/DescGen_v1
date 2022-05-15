@@ -27,17 +27,17 @@ This application helps YouTube music promotional channels to generate a descript
 
 The application should look like this
 
-![alt text](https://github.com/glort572/DescGen_v1/blob/main/274228536_1803190053209722_5676189503320417653_n.jpg?raw=true)
+![alt text](https://github.com/glort572/DescGen_v1/main/274228536_1803190053209722_5676189503320417653_n.jpg?raw=true)
 
 You can customise your icon if you want by opening the options of GtkStuf and clicking on "Applications", too.
 
-![alt text](https://github.com/glort572/DescGen_v1/blob/main/.jpg?raw=true)
+![alt text](https://github.com/glort572/DescGen_v1/main/274140338_264980035807401_1429805827351658119_n.jpg?raw=true)
 
 ## Contributions
 
 Pull requests are welcome. For major changes, please join my Discord server, where we can clearly discuss about your plans (either DM or server).
 
-[[Glort's Discord Server](https://invidget.switchblade.xyz/TRWRhbJp6W)](https://discord.gg/TRWRhbJp6W)
+[![Glort's Discord Server](https://invidget.switchblade.xyz/TRWRhbJp6W)](https://discord.gg/TRWRhbJp6W)
 
 Or open an issue first to discuss what you would like to change. (Unrecommended, since I'm not a big Github user for now).
 
