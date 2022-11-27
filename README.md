@@ -11,7 +11,7 @@ This application written in C# helps YouTube music promotional channels to gener
 ![GitHub](https://img.shields.io/github/license/glort572/DescGen_v1)
 ![GitHub forks](https://img.shields.io/github/forks/glort572/DescGen_v1?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/glort572/DescGen_v1?style=flat-square)
-[![Discord badge](https://img.shields.io/discord/581738731934056449.svg?label=discord&logo=discord)](https://discord.gg/TRWRhbJp6W)
+[![Glort's Discord](https://img.shields.io/discord/860490236269559828?color=purple&label=Discord&logo=discord&logoColor=green&style=plastic)](https://discord.gg/TRWRhbJp6W)
 
 ## Requirements
 
