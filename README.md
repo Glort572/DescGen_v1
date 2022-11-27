@@ -1,6 +1,6 @@
 # Description Generator
 
-This application written in C# helps YouTube music promotional channels to generate a description for their new upload!
+This application written in C# helps YouTube music promotional channels to generate a TXT file for the description for their new upload!
 
 ![AppVeyor](https://img.shields.io/appveyor/build/glort572/DescGen_v1)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/glort572/DescGen_v1/main)
@@ -11,6 +11,7 @@ This application written in C# helps YouTube music promotional channels to gener
 ![GitHub](https://img.shields.io/github/license/glort572/DescGen_v1)
 ![GitHub forks](https://img.shields.io/github/forks/glort572/DescGen_v1?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/glort572/DescGen_v1?style=flat-square)
+![Discord badge](https://discord.gg/TRWRhbJp6W)
 
 ## Requirements
 
@@ -32,6 +33,14 @@ The application should look like this
 You can customise your icon if you want by opening the options of GtkStuf and clicking on "Applications", too.
 
 ![Customisation](https://github.com/Glort572/DescGen_v1/blob/main/274140338_264980035807401_1429805827351658119_n.png)
+
+The output directories where the files will be generated are:
+
+```
+- Engine.cs, Line 62 - "File.WriteAllText("<directory>" + "<txt_file>.txt", content);"
+- Engine.cs, Line 73 - "File.WriteAllText("<directory>" + "<txt_file>.txt", content);"
+- Engine.cs, Line 108 - "File.WriteAllText("<directory>" + "<txt_file>.txt", content);"
+```
 
 ## Contributions
 
