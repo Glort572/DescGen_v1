@@ -4,14 +4,12 @@ This application written in C# helps YouTube music promotional channels to gener
 
 ![AppVeyor](https://img.shields.io/appveyor/build/glort572/DescGen_v1)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/glort572/DescGen_v1/main)
-![AppVeyor tests](https://img.shields.io/appveyor/tests/glort572/DescGen_v1)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/glort572/DescGen_v1?style=plastic)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/glort572/main)
 ![GitHub repo size](https://img.shields.io/github/repo-size/glort572/DescGen_v1)
 ![GitHub](https://img.shields.io/github/license/glort572/DescGen_v1)
 ![GitHub forks](https://img.shields.io/github/forks/glort572/DescGen_v1?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/glort572/DescGen_v1?style=flat-square)
-[![Glort's Discord](https://img.shields.io/discord/860490236269559828?color=purple&label=Discord&logo=discord&logoColor=green&style=plastic)](https://discord.gg/TRWRhbJp6W)
 
 ## Requirements
 
@@ -25,6 +23,8 @@ This application written in C# helps YouTube music promotional channels to gener
 - [GTK# for .NET](https://www.mono-project.com/download/vs/#download-win)
 
 ## Customization
+
+![AppVeyor tests](https://img.shields.io/appveyor/tests/glort572/DescGen_v1)
 
 The application should look like this
 
@@ -43,6 +43,8 @@ The output directories where the files will be generated are:
 ```
 
 ## Contributions
+
+[![Glort's Discord](https://img.shields.io/discord/860490236269559828?color=purple&label=Discord&logo=discord&logoColor=green&style=plastic)](https://discord.gg/TRWRhbJp6W)
 
 Pull requests are welcome. For major changes, please join my Discord server, where we can clearly discuss about your plans (either DM or server).
 
