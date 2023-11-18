@@ -1,4 +1,4 @@
-# Description Generator
+# ⚙️📃📎 Description Generator
 
 This application written in C# helps YouTube music promotional channels to generate a TXT file for the description for their new upload!
 
